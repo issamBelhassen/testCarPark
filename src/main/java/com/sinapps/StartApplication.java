@@ -7,14 +7,12 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.ArrayList;
 import java.util.List;
 
 @SpringBootApplication
-@EnableAutoConfiguration
 public class StartApplication implements CommandLineRunner {
 
     private static final Logger log = LoggerFactory.getLogger(StartApplication.class);
