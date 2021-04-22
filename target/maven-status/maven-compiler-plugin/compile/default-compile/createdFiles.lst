@@ -1,0 +1,6 @@
+com\sinapps\repositories\CarParkRepository.class
+com\sinapps\implimentations\GeolocationServiceImpl.class
+com\sinapps\models\CarPark.class
+com\sinapps\StartApplication.class
+com\sinapps\services\GeolocationService.class
+com\sinapps\controllers\CarParkController.class
